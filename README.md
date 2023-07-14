@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Machine Learning, Power BI, Python and SQL**
 
-- 📫 How to reach me **rudaniujas@gmail.com**
+- 📫 How to reach me **rudaniujas@gmail.com**  
+  **https://in.linkedin.com/in/ujasrudani**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
